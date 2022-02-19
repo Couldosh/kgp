@@ -3,23 +3,16 @@
 				<div>
 					<p>
 						Kids Gonflables Party vous propose à la location de nombreaux châteaux gonflables pour tout vos anniversaires, mariages, kermesses et comités d'entreprise! <br>
-						Nous pouvons livrer nos châteaux n'importe où sur la Grande Terre!<br>
+						Nous livrons dans le Grand-Nouméa<br>
+						Pour toute livraison dans le nord, veuillez consulter notre site internet <a href="http://nord.kidsgonflablesparty.nc">nord.kidsgonflablesparty.nc</a>
 						<br>
-						N'hésitez pas à nous contacter:<br>
+						N'hésitez pas à nous contacter pour plus de renseignements:<br>
 						Par Téléphone au 92.34.61<br>
 						Par Email via kidsgonflablesparty@gmail.com
 					</p>
 					
 				</div>
-				
-					<div id="Nouveauté"  style="text-align: center;margin-bottom: 3.2%">
-						<a href="files/contrat_location.pdf">
-							<div>
-								<img style="display:inline;padding:0" src="images/pdf64.png">
-								<p style="display:inline;background-color:transparent;margin-bottom:50%;">Cliquez ici pour consulter le contrat de location</p>
-							</div>
-						</a>
-					</div>
+
 				
 				
 				<center>
@@ -35,7 +28,7 @@
 						<img src="images/vaiana.png" alt="Chateau vaiana">
 					</td>
 					<td>
-						<img src="images/minions.png" alt="Chateau minions">
+						<img src="images/grand/pirate.jpg" alt="Chateau Pirate">
 					</td>
 				</tr>
 			</table>
