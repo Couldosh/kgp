@@ -25,7 +25,7 @@
 							<li><a href="ChateauxMini.php">Mini Châteaux</a></li>
 							<li><a href="ChateauxPetits.php">Petits Châteaux</a></li>
 							<li><a href="ChateauxMoyen.php">Châteaux Moyen</a></li>
-							<li><a href="ChateauxGrand.php">Grands Châteaux</a></li>
+							<!--<li><a href="ChateauxGrand.php">Grands Châteaux</a></li>-->
 						</ul>
 					</li>
 					<!--<li><a href="Livraison.php">Livraison</a></li>-->
@@ -39,7 +39,7 @@
 					    <img style="border:0;width:88px;height:31px;position: relative;display: inline-block;"
 					        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
 					        alt="CSS Valide !" />
-					    </a>
+            </a>
 			<p id="Copyright">
 				Copyright © 2018 Kids Gonflables Party
 			</p>
