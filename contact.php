@@ -3,7 +3,7 @@
 				<div>
 					<p>
 						Adresse Mail: kidsgonflablesparty@gmail.com
-						Numéro de téléphone: 92.34.61
+						Numéro de téléphone: 84.40.09
 					</p>
 					
 				</div>
