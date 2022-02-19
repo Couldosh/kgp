@@ -28,7 +28,7 @@
 						<img src="images/vaiana.png" alt="Chateau vaiana">
 					</td>
 					<td>
-						<img src="images/pirate.jpg" alt="Chateau Pirate">
+						<img src="images/pompier.png" alt="Chateau Caserne de pompier">
 					</td>
 				</tr>
 			</table>
