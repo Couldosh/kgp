@@ -22,10 +22,9 @@
 					<li><a href="index.php">Accueil</a></li>
 					<li><a href="">Châteaux</a>
 						<ul>
-							<li><a href="ChateauxMini.php">Mini Châteaux</a></li>
-							<li><a href="ChateauxPetits.php">Petits Châteaux</a></li>
-							<li><a href="ChateauxMoyen.php">Châteaux Moyen</a></li>
-							<!--<li><a href="ChateauxGrand.php">Grands Châteaux</a></li>-->
+							<li><a href="ChateauxMini.php">Petits Châteaux</a></li>
+							<li><a href="ChateauxPetits.php">Châteaux Moyens</a></li>
+							<li><a href="ChateauxMoyen.php">Grands Châteaux</a></li>
 						</ul>
 					</li>
 					<!--<li><a href="Livraison.php">Livraison</a></li>-->
