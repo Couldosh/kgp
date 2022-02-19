@@ -4,8 +4,9 @@
 					<p>
 						Kids Gonflables Nord vous propose à la location de nombreaux châteaux gonflables pour tout vos anniversaires, mariages, kermesses et comités d'entreprise! <br>
 						Nous pouvons livrer nos châteaux en Brousse à partir de Bourail!<br>
+						Pour toute livraison sur le Grand Nouméa, veuillez consulter notre site internet <a href="http://kidsgonflablesparty.nc">kidsgonflablesparty.nc</a>
 						<br>
-						N'hésitez pas à nous contacter:<br>
+						N'hésitez pas à nous contacter pour plus de renseignements:<br>
 						Par Téléphone au 84.40.09<br>
 						Par Email via kidsgonflablesparty@gmail.com
 					</p>
