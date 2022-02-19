@@ -2,24 +2,17 @@
 			<div style="margin-bottom: 3.2%">
 				<div>
 					<p>
-						Kids Gonflables Party vous propose à la location de nombreaux châteaux gonflables pour tout vos anniversaires, mariages, kermesses et comités d'entreprise! <br>
-						Nous pouvons livrer nos châteaux n'importe où sur la Grande Terre!<br>
+						Kids Gonflables Nord vous propose à la location de nombreaux châteaux gonflables pour tout vos anniversaires, mariages, kermesses et comités d'entreprise! <br>
+						Nous pouvons livrer nos châteaux en Brousse à partir de Bourail!<br>
 						<br>
 						N'hésitez pas à nous contacter:<br>
-						Par Téléphone au 92.34.61<br>
+						Par Téléphone au 84.40.09<br>
 						Par Email via kidsgonflablesparty@gmail.com
 					</p>
 					
 				</div>
 				
-					<div id="Nouveauté"  style="text-align: center;margin-bottom: 3.2%">
-						<a href="files/contrat_location.pdf">
-							<div>
-								<img style="display:inline;padding:0" src="images/pdf64.png">
-								<p style="display:inline;background-color:transparent;margin-bottom:50%;">Cliquez ici pour consulter le contrat de location</p>
-							</div>
-						</a>
-					</div>
+
 				
 				
 				<center>
@@ -32,7 +25,7 @@
 			<table>
 				<tr>
 					<td>
-						<img src="images/vaiana.png" alt="Chateau vaiana">
+						<img src="images/petit/vaiana.png" alt="Chateau Vaiana">
 					</td>
 					<td>
 						<img src="images/minions.png" alt="Chateau minions">
