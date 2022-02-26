@@ -8,7 +8,7 @@
 						<br>
 						N'hésitez pas à nous contacter pour plus de renseignements:<br>
 						Par Téléphone au 84.40.09<br>
-						Par Email via kidsgonflablesparty@gmail.com
+						Par Email via kidsgonflablesnord@gmail.com
 					</p>
 					
 				</div>
