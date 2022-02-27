@@ -14,7 +14,7 @@
 				<div id="head">
 					<img src="images/header.jpg " alt="Entête">
 					<div id="Facebook"> 
-						<a href="https://www.facebook.com/KidsGonflables/"><img src="images/logo_f.png" alt="logo Facebook" id="f_logo"></a>
+						<a href="https://www.facebook.com/Kids-gonflables-Nord-112645381357842/"><img src="images/logo_f.png" alt="logo Facebook" id="f_logo"></a>
 					</div>
 				</div>
 			<nav>
