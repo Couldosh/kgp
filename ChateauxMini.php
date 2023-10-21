@@ -26,7 +26,6 @@ if ($result->num_rows > 0) {
         <tr>
 			<td><p class="ptable"><?php echo utf8_encode ($row["NomCh"]) ?></p><a href= <?php echo "images/petit/".strtolower(utf8_encode ($row["image"]))?>><img src=<?php echo"images/petit/small_".strtolower(utf8_encode ($row["image"]))?> alt=<?php echo "Chateau ".utf8_encode ($row["NomCh"]) ?>></a></td>
 			<td><?php echo $row["Longueur"]."x".$row["Largeur"]."m" ?></td>
-			<td><?php echo $row["LimiteAge"] ?></td>
 		</tr><?php
     }
 } else {
