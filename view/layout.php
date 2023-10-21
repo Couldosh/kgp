@@ -13,14 +13,14 @@
 	<a id="debut"></a>
 				<div id="head">
 					<img src="images/header.jpg " alt="Entête">
-					<div id="Facebook"> 
+					<div id="Facebook">
 						<a href="https://www.facebook.com/KidsGonflables/"><img src="images/logo_f.png" alt="logo Facebook" id="f_logo"></a>
 					</div>
 				</div>
 			<nav>
 				<ul>
 					<li><a href="index.php">Accueil</a></li>
-					<li><a href="">Châteaux</a>
+					<li><a>Châteaux</a>
 						<ul>
 							<li><a href="ChateauxMini.php">Mini Châteaux</a></li>
 							<li><a href="ChateauxPetits.php">Petits Châteaux</a></li>

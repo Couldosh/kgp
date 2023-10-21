@@ -3,7 +3,6 @@
 			<tr>
 				<th></th>
 				<th>Taille</th>
-				<th>Age</th>
 			</tr>
 
 <?php
