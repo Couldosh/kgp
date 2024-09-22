@@ -20,17 +20,8 @@
 			<nav>
 				<ul>
 					<li><a href="index.php">Accueil</a></li>
-					<li><a>Châteaux</a>
-						<ul>
-							<li><a href="ChateauxMini.php">Mini Châteaux</a></li>
-							<li><a href="ChateauxPetits.php">Petits Châteaux</a></li>
-							<li><a href="ChateauxMoyen.php">Châteaux Moyen</a></li>
-							<li><a href="ChateauxGrand.php">Grands Châteaux</a></li>
-						</ul>
-					</li>
-					<!--<li><a href="Livraison.php">Livraison</a></li>-->
+					<li><a href="Chateaux.php">Châteaux</a></li>
 					<li><a href="Galerie.php">Galerie</a></li>
-					<!--<a href="contact.php">Contact</a></li>-->
 				</ul>
 			</nav>
 	<?php echo $content;?>

@@ -1,4 +1,4 @@
-<?php ob_start(); ?> 
+<?php ob_start(); ?>
 <table>
 			<tr>
 				<th></th>
@@ -17,13 +17,13 @@ $conn = new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
-$sql = "SELECT * FROM Chateaux,Categories WHERE (Chateaux.idCategorie = 2 OR Chateaux.idCategorie = 3)  AND Chateaux.idCategorie = Categories.idCategorie AND Chateaux.Localisation = 'SOUTH' ORDER BY Chateaux.idCategorie DESC";
+$sql = "SELECT * FROM Chateaux,Categories WHERE Chateaux.idCategorie = Categories.idCategorie AND Chateaux.Localisation = 'SOUTH' ORDER BY Chateaux.idCategorie DESC";
 $result = $conn->query($sql);
 if ($result->num_rows > 0) {
     while($row = $result->fetch_assoc()) {
         ?>
         <tr>
-			<td><p class="ptable"><?php echo utf8_encode ($row["NomCh"]) ?></p><a href= <?php echo "images/petit/".strtolower(utf8_encode ($row["image"]))?>><img src=<?php echo"images/petit/small_".strtolower(utf8_encode ($row["image"]))?> alt=<?php echo "Chateau ".utf8_encode ($row["NomCh"]) ?>></a></td>
+			<td><p class="ptable"><?php echo utf8_encode ($row["NomCh"]) ?></p><a href= <?php echo "images/chateaux/".strtolower(utf8_encode ($row["image"]))?>><img src=<?php echo"images/chateaux/small_".strtolower(utf8_encode ($row["image"]))?> alt=<?php echo "Chateau ".utf8_encode ($row["NomCh"]) ?>></a></td>
 			<th><?php echo $row["Longueur"]."x".$row["Largeur"]."m" ?></th>
 		</tr><?php
     }
@@ -33,6 +33,6 @@ if ($result->num_rows > 0) {
 $conn->close();
 ?>
 </table>
-<?php $content = ob_get_clean(); ?> 
+<?php $content = ob_get_clean(); ?>
 <?php include 'view/layout.php';?>
 
